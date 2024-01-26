@@ -1,10 +1,11 @@
-# Drupal_to_Magento2-Migration
+# MARRONACO ANTOLOGICO (ahora es un script en PHP)
 
-Its a Script to Migrate Data from Drupal 6 to Magento 2. However it can be used to migrate data from other version of Drupal too,you just need to be familiar with Database architecture of Drupal.
-Each of different Script is named different according to the function they perform.
-All of these Script runs through browser, but it can be customised to run thorugh Terminal.
+Script para migrar de Drupal6 a Magento 2 (lo vamos a transformar para que migre Drupal 7).
+Cada script tiene un nombre segun su funcion desarrollada.
+Los scripts están hecho para run en navegador, pero se puede customizar para hacer run en terminar (se supone).
 
-#Migration Steps:
+
+# Pasos para la migracion (en ingles xd):
 1. "categoriesScript.php" to migrate Category from Drupal to Magento 2.
 2. "CustomerScript.php" to migrate User's from Drupal into Customer,Seller and Admin in Magento 2 a/c to role of users.
 3. "SavedItem_SavedShop.php" to migrate data of Seller's Saved Shop and Saved Items.
